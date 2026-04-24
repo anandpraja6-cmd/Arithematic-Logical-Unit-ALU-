@@ -89,6 +89,3 @@ It helps students understand how arithmetic and logic operations are performed i
 ## 👨‍💻 Author
 
 **Anand Mohan**
-
-Save this file as **README.md** inside your project folder before uploading to GitHub.  
-GitHub will automatically display it on your repository homepage.
